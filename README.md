@@ -35,6 +35,7 @@ Final Projek/
 ┣ 📜 index.js         # Entry Point: Main Server Express
 ┣ 📜 .env             # Kunci API (Rahasia)
 ┗ 📜 package.json     # Daftar library & Script start
+┣ 📜 AIromantic.png   # Screenshot UI Aplikasi
 
 
 ⚙️ Cara Instalasi & Menjalankan
