@@ -1,6 +1,6 @@
 # 🌌 Neo-Love AI: Futuristic Romantic Virtual Partner
 
-![Neo-Love AI Banner](airomantic.png)
+![Neo-Love AI Banner](AIromantic.png)
 
 > **Neo-Love AI** adalah aplikasi chatbot berbasis web yang menggabungkan estetika futuristik dengan kepribadian AI yang romantis dan suportif. 
 
